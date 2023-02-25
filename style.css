@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav-tabs {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bold {
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.table-bottom-label {
+    font-size: 10px;
+    color: blue;
+}
+
+.home-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+}
+
+.dashboard-content-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

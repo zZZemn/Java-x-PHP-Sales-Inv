@@ -1,0 +1,8 @@
+Pizza,5.0,10
+Burger,6.0,2
+Coke,15.0,18
+Cake,20.0,5
+Ice Tea,20.0,50
+Ice Cream,20.0,35
+Chocolate,30.0,50
+Candy,5.0,100
