@@ -20,7 +20,7 @@
             <a class="nav-link" href="sales.php">Sales</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="labour.php">Labour</a>
+            <a class="nav-link" href="orders.php">Orders</a>
         </li>
     </ul>
 
