@@ -30,4 +30,53 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+
+    box-shadow: 1px 1px 3px rgb(180, 180, 180);
+}
+
+.action a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.action .add {
+    color: black;
+}
+
+.action .edit {
+    color: black;
+}
+
+.action .delete {
+    color: red;
+}
+
+.container-orders {
+    background-color: white;
+    box-shadow: 1px 1px 5px rgb(194, 194, 194);
+    height: 90vh;
+    width: 90vw;
+    margin-top: 20px;
+}
+
+.top-details {
+    display: flex;
+    justify-content: space-around;
+}
+
+.delivery-container {
+    box-shadow: 1px 1px 5px rgb(221, 221, 221) !important;
+}
+
+.status {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 400px;
+}
+
+.status hr {
+    height: 1px;
+    background-color: black;
+    width: 100px;
 }

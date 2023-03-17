@@ -53,10 +53,10 @@
     </ul>
 
     <div class="container mt-5 home-container w-50">
-        <div class="bg-light border-top border-4 border-primary rounded m-5 h-75 w-50 dashboard-content-container">
+        <div class="border-top border-4 border-primary rounded m-5 h-75 w-50 dashboard-content-container">
             <a href="item.php" class="p-5 text-decoration-none">Items</a>
         </div>
-        <div class="bg-light border-top border-4 border-primary rounded m-5 h-75 w-50 dashboard-content-container">
+        <div class="border-top border-4 border-primary rounded m-5 h-75 w-50 dashboard-content-container">
             <a href="sales.php" class="p-5 text-decoration-none">Sales - PHP <?php echo $total;?></a> 
         </div>
     </div>
